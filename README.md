@@ -25,16 +25,18 @@ I am Alexandre Álvaro, but most people call me Alex. I am a **Fullstack develop
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   
 
+  
+  
 
 - 🌱 I’m currently learning ...
   
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   
-- 📫 How to reach me: ...
-  
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-alvaro/)
 
+  
+  
+  
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AleAlvo&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
