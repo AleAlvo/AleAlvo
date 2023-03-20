@@ -38,7 +38,7 @@ I am Alexandre Álvaro, but most people call me Alex. I am a **Fullstack develop
   
   
 ## Stats
-![AleAlvo's Stats](https://github-readme-stats.vercel.app/api?username=AleAlvo&show_icons=true)
+![AleAlvo's Stats](https://github-readme-stats.vercel.app/api?username=AleAlvo&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AleAlvo&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleAlvo&hide=TeX&layout=compact&theme=prussian)
