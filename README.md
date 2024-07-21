@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Alexandre Álvaro, but most people call me Alex. I am a **Fullstack developer** based out of Lisbon. I have just finished my first experience with web development - the Fullstack Web Development bootcamp at Ironhack - and am looking for my first job in this field. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am a Full Stack Developer, with a primary focus on Front End, with expertise in front-end technologies like React, TypeScript, and Redux, as well as back-end technologies including Node.js, Express and MongoDB. With a background in Architecture and extensive experience in the Airline and Sports industries, I bring a unique blend of creative problem-solving skills and a strong commitment to make my code and my team better. My diverse professional journey has honed my ability to thrive in multidisciplinary teams, and my dedication to continuous learning and excellent code drives my development practice. I excel in Agile environments, leveraging my leadership experience and a strong set of core values to foster collaboration and innovation.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-alvaro/)
 
@@ -22,7 +22,12 @@ I am Alexandre Álvaro, but most people call me Alex. I am a **Fullstack develop
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![<Cyclic>](https://img.shields.io/badge/-Cyclic-2287c9?style=flat-square&logo=cyclic&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
   
 
   
@@ -30,8 +35,7 @@ I am Alexandre Álvaro, but most people call me Alex. I am a **Fullstack develop
 
 - 🌱 I’m currently learning ...
   
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
   
 
   
