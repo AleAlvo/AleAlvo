@@ -26,15 +26,16 @@ I am a Full Stack Developer, with a primary focus on Front End, with expertise i
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%2346B2C9.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-%23F55A5A.svg?style=for-the-badge&logo=remix&logoColor=white)
 
 
-  
 
-  
-  
 
 - 🌱 I’m currently learning ...
-  
+![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 
   
 
