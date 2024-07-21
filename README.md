@@ -29,13 +29,18 @@ I am a Full Stack Developer, with a primary focus on Front End, with expertise i
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%2346B2C9.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-%23F55A5A.svg?style=for-the-badge&logo=remix&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+
 
 
 
 
 - 🌱 I’m currently learning ...
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-%23F55A5A.svg?style=for-the-badge&logo=remix&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
   
 
