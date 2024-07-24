@@ -51,8 +51,15 @@ I am a Full Stack Developer, with a primary focus on Front End, with expertise i
 ## Stats
 ![AleAlvo's Stats](https://github-readme-stats.vercel.app/api?username=AleAlvo&show_icons=true&theme=prussian)
 
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AleAlvo&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleAlvo&hide=TeX&layout=compact&theme=prussian)
+
+
+![AleAlvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AleAlvo&show_icons=true&theme=prussian&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleAlvo&layout=compact&theme=prussian&hide=TeX)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AleAlvo)
   
   
 
