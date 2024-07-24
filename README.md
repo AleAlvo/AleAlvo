@@ -30,6 +30,8 @@ I am a Full Stack Developer, with a primary focus on Front End, with expertise i
 ![Cypress](https://img.shields.io/badge/Cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%2346B2C9.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047A9.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
 
 
 
