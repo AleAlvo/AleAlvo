@@ -1,6 +1,58 @@
 ### Hi there 👋
 
-I am a Full Stack Developer, with a primary focus on Front End, with expertise in front-end technologies like React, TypeScript, and Redux, as well as back-end technologies including Node.js, Express and MongoDB. With a background in Architecture and extensive experience in the Airline and Sports industries, I bring a unique blend of creative problem-solving skills and a strong commitment to make my code and my team better. My diverse professional journey has honed my ability to thrive in multidisciplinary teams, and my dedication to continuous learning and excellent code drives my development practice. I excel in Agile environments, leveraging my leadership experience and a strong set of core values to foster collaboration and innovation.
+I am a **Software Engineer**, with expertise in **Front-end technologies**, and focused on harnessing my learning skills to make significant impacts in the tech industry and beyond.
+
+My diverse professional journey has honed my ability to thrive in multidisciplinary teams, and my dedication to continuous learning and excellent code drives my development practice. I excel in Agile environments, leveraging my leadership experience and a strong set of core values to foster collaboration and innovation.
+
+---
+
+### Technical Skills 🛠️
+
+- **Languages & Frameworks:** React, TypeScript, JavaScript, Redux, Node.js, Express.js  
+- **Front-end Libraries:** Material UI, Tailwind  
+- **Databases:** MongoDB, PostgreSQL, Supabase  
+- **Version Control & DevOps:** GitHub, Bitbucket, Kubernetes, Docker  
+- **Testing & Quality Assurance:** Jest, Cypress  
+- **Development Principles:** Responsive design, Component-based architecture, Microservices, RESTful APIs  
+- **Additional Tools:** AI Code Companions  
+
+---
+
+### Key Projects 📚
+
+**Fleet Manager (Aeler Technologies):**  
+- Led the redefinition of form and form error functionalities, significantly enhancing user experience and **reducing load times** by optimizing backend service calls on an average of 40%.  
+- **Code-Base Refactoring:** Undertook extensive refactoring of the existing code base to improve maintainability and performance.  
+- **Time Usage Analysis and Debugging:** Utilized time analysis tools and debugging techniques to optimize performance and resolve critical issues.  
+- **CRM Integration:** Supported the integration of Salesforce with the company's internal platforms, focusing on seamless front-end experiences.  
+- **Metabase Integration:** Spearheaded the integration project to create complex SQL queries for dashboards, providing valuable insights into inventory management, which are used daily.  
+- **Design System Implementation:** Contributed to the development and application of a cohesive design system across multiple digital products.  
+
+**Control Tower (Aeler Technologies):**  
+- **Code-Base Refactoring:** Undertook extensive refactoring of the existing code base to improve maintainability and performance.  
+- **Shipping Container Metrics Dashboard:** Added functionalities for a container metrics dashboard, enhancing visibility and monitoring capabilities for external clients.  
+
+---
+
+### Leadership & Advocacy 🌟
+
+- **Recognized Communicator and Adaptability:** At Aeler Technologies, I was acknowledged for my exceptional communication skills and adaptability, which allowed me to make an immediate and positive impact on the organization. My ability to quickly integrate into teams and contribute effectively was instrumental in driving project success.  
+- **Team Leadership and Hall of Fame:** As a team captain and vice-president for the Cascais Crusaders for six years, I developed strong leadership and teamwork skills. My contributions to the team’s success have earned me a place in the team's hall of fame, reflecting my commitment and impact on the sport, culminating in the team's first-ever team championship win.  
+- **Ironhack Bootcamp Honors:** Graduated from Ironhack's Web Development Bootcamp with honors. My projects were distinguished with awards in four categories: complexity, creativity, aesthetics, and best overall, showcasing my ability to blend innovative solutions with excellent design.  
+
+---
+
+### Professional Goals 🚀
+
+- **Impactful Work:** My #1 priority is, and always has been, to have a positive impact on the world around me.  
+- **Career Development:** Focused on advancing my expertise in Front End development, particularly with React. My plan is to achieve mastery over impactful and widely used technologies to broaden my scope of work.  
+- **Continuous Learning:** Committed to staying at the forefront of the tech industry by continuously learning and applying new technologies and methodologies. I deliver my best work when my knowledge is challenged.  
+
+---
+
+### Connect with Me 📬
+ 
+📫 [Email](mailto:a.borges.alvaro@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-alvaro/)
 
